@@ -102,7 +102,7 @@ DistillHub  — 万物皆可 .skill 的开源宇宙
 | Paul Graham.skill      | [alchaincyf/paul-graham-skill](https://github.com/alchaincyf/paul-graham-skill) | 创业思考框架 |
 | Karpathy.skill         | [alchaincyf/karpathy-skill](https://github.com/alchaincyf/karpathy-skill) | AI/深度学习思维 |
 | X 导师.skill           | [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) | 写作/内容增长导师 |
-| Khazix Skills.skill           | [alchaincyf/x-mentor-skill]([https://github.com/alchaincyf/x-mentor-skill](https://github.com/KKKKhazix/khazix-skills)) | 写作/数字生命卡兹克开源的 AI Skills 合集 |
+| Khazix Skills.skill           | [alchaincyf/khazix-skills](https://github.com/KKKKhazix/khazix-skills) | 写作/数字生命卡兹克开源的 AI Skills 合集 |
 
 ---
 
