@@ -12,7 +12,7 @@ DistillHub  — 万物皆可 .skill 的开源宇宙
 > 万物皆可 skill，与其等着被别人蒸，不如先蒸自己！
 
 [![Stars](https://img.shields.io/github/stars/codeman008/awesome-distillhub-persona-skills?style=social)](https://github.com/codeman008/awesome-distillhub-persona-skills)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 **这些 .skill 到底能有什么用？**  
 简单来说：**它们把真实人物的思维方式、聊天风格、决策逻辑、情感模式全部“蒸馏”成一个可随时加载的 AI 人格**，让你在 AI 工具里直接“召唤”TA 来帮忙、聊天、决策、陪伴。
@@ -145,7 +145,5 @@ DistillHub  — 万物皆可 .skill 的开源宇宙
 
 ## 贡献指南
 欢迎 PR 补充新 skill！Fork → 修改表格 → PR 即可。
-
-**License**：MIT
 
 ---
